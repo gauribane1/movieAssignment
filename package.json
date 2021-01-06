@@ -12,7 +12,7 @@
   "dependencies": {
     "@material/textfield": "^6.0.0",
     "@react-native-community/masked-view": "^0.1.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "material-ui": "^0.20.2",
     "react": "^16.11.0",
     "react-native": "0.62.2",
